@@ -56,8 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NilMarquez&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="margin-right: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilMarquez&show_icons=true&theme=gruvbox" alt="GitHub Streak" style="margin-right: 20px;"></br>
-    <img src="https://github-profile-trophy.vercel.app/?username=NilMarquez&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="margin-right: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=NilMarquez&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="margin-right: 20px;">
 </p>
 
 <div align="center"> 
