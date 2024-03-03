@@ -59,16 +59,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NilMarquez&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="margin-right: 20px;">
 </p>
 
-<div align="center"> 
-  
-# 🐍 My Contributions 
-
-</div>
-
- <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NilMarquez/NilMarquez/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
