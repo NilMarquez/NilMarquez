@@ -13,7 +13,7 @@
 </div>
 
 
-<div align="center"> 
+<div align="center"></br> 
     
 ```yaml
 👤 Name: Nil Márquez;
@@ -67,10 +67,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NilMarquez&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="margin-right: 20px;">
 </p>
 
-# Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NilMarquez/NilMarquez/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NilMarquez/NilMarquez/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NilMarquez/NilMarquez/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- TXS FOR VISITING -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-black?style=for-the-badge&logo=github&labelColor=yellow" height="35" />
+</div>
