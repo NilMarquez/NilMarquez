@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=NilMarquez&icon=3&color=2)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=E1B541&duration=4000&lines=Hi+There!+👋;+I'm+Nil+Márquez!;" />
+  <img src="https://raw.githubusercontent.com/NilMarquez/NilMarquez/master/name.svg" alt="Nil Márquez" />
 </h1>
 
 <h3 align="center"><b>A passionate software developer from Spain</b></h3></br>
