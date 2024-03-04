@@ -12,9 +12,17 @@
 **`Developer (Creative 🖌️ / Passionate 🚀 / Curious 🌍)`**</br>
 </div>
 
+
 <div align="center"> 
-  
-   I'm Nil, a dedicated student with a passion for coding. Actively pursuing studies in web development, currently learning front-end technologies like HTML, CSS, JavaScript, and more. My GitHub repository serves as a showcase of my evolving   skills and commitment to continuous learning. I am enthusiastic about joining the dynamic web development community and building a strong foundation for my future in the field!
+    
+```yaml
+👤 Name: Nil Márquez;
+📍 Living: Barcelona, Spain;
+📚 Schooling: Higher level of web application development at La Salle Grácia.;
+📧 Contact: nilmarquezr@gmail.com
+
+"People don't know what they want until you show it to them." Steve Jobs 
+```
   
 </div></br>
  
