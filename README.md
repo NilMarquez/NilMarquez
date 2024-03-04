@@ -50,8 +50,6 @@
 
 [![HTML, CSS](https://skillicons.dev/icons?i=java,html,css,git,idea,stackoverflow,vscode,mysql)](https://skillicons.dev)
 
-<br>
-
 </div>
 
 <div align="center"> 
@@ -65,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NilMarquez&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="margin-right: 20px;"><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=NilMarquez&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="margin-right: 20px;">
 </p>
-
+<br>
 <!-- TXS FOR VISITING -->
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting-black?style=for-the-badge&logo=github&labelColor=yellow" height="35" />
