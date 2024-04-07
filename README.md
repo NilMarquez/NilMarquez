@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/NilMarquez/NilMarquez/master/name.svg" alt="Nil Márquez" />
 </h1>
 
-<h3 align="center"><b>A passionate software developer from Spain </b></h3></br>
+<h3 align="center"><b>A passionate software developer from Spain </b></h3></br> 
 
   
 <div align="center">  
