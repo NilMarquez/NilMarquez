@@ -30,7 +30,7 @@
   <a href="mailto:nilmarquezr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/nil-marquez-rodriguez" target="_blank">
+  <a href="[https://linkedin.com/in/nil-marquez-rodriguez](https://www.linkedin.com/in/nil-m%C3%A1rquez-rodr%C3%ADguez-5205812b8/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://NilMarquez.github.io" target="_blank">
